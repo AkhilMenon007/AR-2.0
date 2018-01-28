@@ -9,7 +9,8 @@ GAME INFO :
 
 1. Starting the Game :
 
-As you open the game for the first time you are asked to enter a team number . Use any number you like in here . Then the camera backgound will appear and you are supposed to scan any one of the markers named entry point to start the game.
+As you open the game for the first time you are asked to enter a team number . Use any number you like in here .
+Then the camera backgound will appear and you are supposed to scan any one of the markers named entry point to start the game.
 
 2. Playing the Game :
 
@@ -21,7 +22,8 @@ The app contains 4 AR games and one AR task which are required to be completed i
 
 The information for the individual games are given below :
 
-    1. Jumpy Plane: The goal of this game is to make the plane stay in the screen while the player walks his way to the destination marker. This is done by tapping the screen to make the plane "jump" and the players are supposed to keep tapping the screen until they reached the goal. 
+    1. Jumpy Plane: The goal of this game is to make the plane stay in the screen while the player walks his way to the destination marker. 
+    This is done by tapping the screen to make the plane "jump" and the players are supposed to keep tapping the screen until they reached the goal. 
 
         Note : The plane does'nt jump vertically up and direction is determined by where you tap the screen
 
