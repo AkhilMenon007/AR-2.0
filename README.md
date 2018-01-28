@@ -44,6 +44,6 @@ This Special marker was used for admin access in order to fix any unprecedented 
     1. Remove the save file
     2. Send the save data to the server(Won't work in this version)
     3. Make the next clue available
-    4. Save the game.
+    4. Remove Blackout(Won't work in this version).
 
 The Master Card requires a hard coded password to get access to Master Control and the password is : "24Carat"    
